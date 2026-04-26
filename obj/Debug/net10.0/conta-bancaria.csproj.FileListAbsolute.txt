@@ -1,0 +1,15 @@
+C:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.AssemblyInfo.cs
+C:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.sourcelink.json
+c:\Users\Windows 10\Documents\conta-bancaria\bin\Debug\net10.0\conta-bancaria.exe
+C:\Users\Windows 10\Documents\conta-bancaria\bin\Debug\net10.0\conta-bancaria.deps.json
+C:\Users\Windows 10\Documents\conta-bancaria\bin\Debug\net10.0\conta-bancaria.runtimeconfig.json
+c:\Users\Windows 10\Documents\conta-bancaria\bin\Debug\net10.0\conta-bancaria.dll
+c:\Users\Windows 10\Documents\conta-bancaria\bin\Debug\net10.0\conta-bancaria.pdb
+c:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.dll
+c:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\refint\conta-bancaria.dll
+c:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.pdb
+C:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\conta-bancaria.genruntimeconfig.cache
+C:\Users\Windows 10\Documents\conta-bancaria\obj\Debug\net10.0\ref\conta-bancaria.dll
